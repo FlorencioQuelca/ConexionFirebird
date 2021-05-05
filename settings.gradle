@@ -1,0 +1,6 @@
+include ':Jaybird_2_2_12'
+include ':jaybird-2.2.15'
+include ':jaybird-full-2.2.15'
+include ':jaybird-4.0.3.java11'
+include ':app'
+rootProject.name = "Conexion Firebird"
